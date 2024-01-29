@@ -1,2 +1,2 @@
-# ccp_html_w24
-Repository for CCP
+# ccp_starter_code
+Starter Code for your CCP 
